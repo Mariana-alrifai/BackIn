@@ -1,2 +1,2 @@
-# ScamShield
-CSCI410 – Scam awareness and detection Android app
+BackIn
+CSCI410 – App that guides users to recover a hacked account
